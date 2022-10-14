@@ -3,7 +3,7 @@
 "spider":"https://raw.iqiq.io/liu673cn/box/main/sub/jar/2925.jar;md5;3BBE25C7A4BC9DD927D24258686517E1",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "https://raw.githubusercontent.com/Andreayoo/ming/main/IPTV.txt,https://raw.githubusercontent.com/Andreayoo/ming/main/guangdong/%E5%B9%BF%E4%B8%9C%E7%94%B5%E4%BF%A1%E7%BB%84%E6%92%AD%E5%85%A8%E5%A5%97.txt"
-]}],
+]}]}],
 
 "sites": [
 {"key":"csp_CZSPP","name":"🏭厂长资源","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1},
