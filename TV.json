@@ -2,7 +2,7 @@
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 "spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;C14E6D5F5ED7D18D21C001478499FF14",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
-"https://ghproxy.com/https://raw.githubusercontent.com/Andreayoo/ming/main/IPTV.txt"
+"proxy://do=live&type=txt&ext=aHR0cDovL2ZyZWVkLnl1YW5oc2luZy5jZi90di9saXZlLnR4dA=="
 ]}]}],
 
 "sites": [
