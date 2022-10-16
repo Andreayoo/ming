@@ -452,7 +452,6 @@ NewTV农业致富,http://39.135.138.60:18890/PLTV/88888910/224/3221225670/index.
 罗山电视台,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 福州综合,http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 福州生活,http://live.zohi.tv/video/s10001-shpd-3/index.m3u8
-济宁教育,http://lives.jnnews.tv/video/s10001-JTV2/index.m3u8
 文山综合,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel7/playlist.m3u8
 西安新闻,http://stream2.xiancity.cn/xatv1/playlist.m3u8
 侨乡,http://stream.jinjiang.tv/1/sd/live.m3u8
