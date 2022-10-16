@@ -230,7 +230,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="央视",CNC英文
 http://39.134.115.163:8080/PLTV/88888910/224/3221225693/index.m3u8
 #EXTINF:-1 tvg-logo="http://s0.xiaomitv.cc/pic/hunanweishi.jpg" group-title="卫视",湖南卫视
-http://111.20.33.93/PLTV/88888893/224/3221226211/index.m3u8
+http://111.20.33.70/PLTV/88888893/224/3221226211/index.m3u8
 #EXTINF:-1 tvg-logo="http://s0.xiaomitv.cc/pic/dongfangweishi.jpg" group-title="卫视",东方卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
 #EXTINF:-1 tvg-logo="http://s.wasu.cn/data/images/201512/24/567b952f71675.png" group-title="卫视",浙江卫视
