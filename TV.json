@@ -1,6 +1,6 @@
 {
 "wallpaper":"https://tuapi.eees.cc/api.php?category=fengjing&type=302",
-"spider":"https://raw.iqiq.io/leevi0709/duo/main/jar/1010.jar;md5;50F526FE9C971FB1AC5AD1840289A040",
+"spider":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;50F526FE9C971FB1AC5AD1840289A040",
 "lives": [{"group": "redirect","channels": [{"name": "redirect","urls": [
 "proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vQW5kcmVheW9vL21pbmcvbWFpbi9JUFRWLnR4dA=="
 ]}]}],
@@ -46,15 +46,6 @@
 {"key":"csp_xpath_球迷直播","name":"⚽🏀球迷直播","type":3,"api":"csp_XPathFilter","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E7%90%83%E8%BF%B7%E7%9B%B4%E6%92%AD.json"},
 {"key":"JRS看球网","name":"⚽🏀JRS看球网","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/JRS%E7%9C%8B%E7%90%83%E7%BD%91.json"},
 {"key":"csp_xBPQ_抓饭体育","name":"️🤾‍♀🤾🏾抓饭体育","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"分类url\":\"https://www.zhuafan.tech/sports-home/category/{cateId}\",\"分类\":\"全部$/all#足球$Football#篮球$Basketball#羽乒$Badminton#台球$Billiards#棒球$Baseball#户外$Outdoors#搏击$Wrestling#综合$Others#棋盘$Boardgame#电竞$Popular#网球$Tennis#排球$Volleyball#聊天$Chat#原声$Acoustic\",\"热门推荐\":\"1\",\"起始页\":\"1\",\"直接播放\":\"1\",\"数组\":\"{&&}\",\"图片\":\"imageUrl\\\":\\\"&&\\\"\",\"标题\":\"cname\\\":\\\"&&\\\"\",\"链接\":\"id\\\":\\\"&&\\\"\",\"链接前缀\":\"https://www.zhuafan.tech/\"}"},
-{"key":"csp_BBB","name":"🅱️哔哩哔哩","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/Bili/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"},
-{"key":"儿童","name":"🐯儿童乐园","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"},
-{"key":"学习","name":"📝学习园地","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/Bili/%E5%AD%A6%E4%B9%A0%E5%9B%AD%E5%9C%B0.json"},
-{"key":"软件","name":"📗软件教程","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/Bili/%E8%BD%AF%E4%BB%B6%E6%95%99%E7%A8%8B.json"},
-{"key":"美食","name":"🍔美食合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/Bili/%E7%BE%8E%E9%A3%9F%E5%90%88%E9%9B%86.json"},
-{"key":"音乐","name":"🎤音乐现场","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/Bili/%E9%9F%B3%E4%B9%90%E7%8E%B0%E5%9C%BA.json"},
-{"key":"热舞","name":"💃女团热舞","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/Bili/%E5%A5%B3%E5%9B%A2%E7%83%AD%E8%88%9E.json"},
-{"key":"戏曲","name":"👘戏曲合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/Bili/%E6%88%8F%E6%9B%B2%E5%90%88%E9%9B%86.json"},
-{"key":"短视频聚合","name":"📱短视频聚合","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E7%9F%AD%E8%A7%86%E9%A2%91%E8%81%9A%E5%90%88.json"},
 {"key":"csp_Yj1211","name":"📸直播合集","type":3,"api":"csp_Yj1211","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"虎牙","name":"🐯虎牙","type":3,"api":"csp_XYQBiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E8%99%8E%E7%89%99.json"},
 {"key":"csp_biubiu_斗鱼","name":"🦈斗鱼","type":3,"api":"csp_XBiubiu","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/%E6%96%97%E9%B1%BC.json"},
@@ -148,7 +139,7 @@
 {"key":"千寻时光","name":"🍱千寻时光","type":1,"api":"http://wy.dqyhg.cn/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"MX影院","name":"🌭MX影院","type":1,"api":"http://49.235.107.145:81/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"MBO影视","name":"🍹MBO影视","type":0,"api":"https://www.mbomovie.com/api.php/provide/vod/at/xml/","searchable":0,"quickSearch":0},
-{"key":"csp_biubiu_555电影","name":"🏅555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/555%E7%94%B5%E5%BD%B1.json"},
+{"key":"csp_biubiu_555电影","name":"🏅555电影","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.iqiq.io/leevi0709/duo/main/json/555%E7%94%B5%E5%BD%B1.json"}
 ],
 
 "parses":[
@@ -169,9 +160,10 @@
 {"name":"fuqi12","type":1,"url":"https://play.fuqizhishi.com/jx/API.php?appkey=iiiixiaobai&url="},
 {"name":"猫咪13","type":1,"url":"http://api.xiaomaomi.tv/home/api?type=ys&uid=8728968&key=cdkmqvyzFIJPRT2349&url=","ext":{"flag":["qiyi","iqiyi","奇艺","爱奇艺","qq","腾讯","youku","优酷","pptv","PPTV","letv","乐视","bilibili","哔哩哔哩","哔哩","mgtv","芒果","xigua","西瓜","sohu","搜狐","cntv","cctv","央视","1905","m1905"]}},
 {"name":"keyu14","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"flag":["","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"江湖15","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}],"flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"
-],
+{"name":"江湖15","type":1,"url":"http://211.99.99.236:4567/jhjson/ceshi.php?url="}],"flags":["youku","qq","iqiyi","imgo","xueren","m1905","qiyi","letv","sohu","tudou","pptv","dbm3u8","mgtv","wasu","bilibili","le","duoduozy","renrenmi","xigua","优酷","西瓜","乐视","芒果","腾讯","爱奇艺","奇艺","ltnb","rx","CL4K","xfyun","wuduzy","哔哩哔哩","哔哩"}]}],
+
 "flags": ["youku", "qq", "iqiyi", "qiyi", "letv", "sohu", "tudou", "pptv", "mgtv", "wasu", "bilibili", "renrenmi"],
+
 "ijk":[
 {"group":"软解码","options":[
 {"category":4,"name":"opensles","value":"0"},
