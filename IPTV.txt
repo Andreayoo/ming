@@ -265,8 +265,9 @@ EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 咪咕58,http://cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225972/index.m3u8
 
 4K 咪咕 影视 
-影院4K,http://epg.112114.xyz/douyu/9249162
+8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 4K测试,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
+影院4K,http://epg.112114.xyz/douyu/9249162
 北京IPTV4K,http://219.142.147.211:9901/tsfile/live/1011_1.m3u8
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
