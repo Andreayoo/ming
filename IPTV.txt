@@ -273,7 +273,7 @@ EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
 4K测试,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
 影院4K,http://epg.112114.xyz/douyu/9249162
-北京IPTV4K,http://219.142.147.225:9901/tsfile/live/1011_1.m3u8
+北京IPTV4K,http://219.142.151.252:9901/tsfile/live/1011_1.m3u8
 欢笑剧场4K,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 纯享4K,http://[2409:8087:5c00:10:5::123]/cdnrrs.gx.chinamobile.com/PLTV/3/224/3221225726/index.m3u8
@@ -282,7 +282,7 @@ CHC家庭电影,http://fyld.eatuo.com:9901/tsfile/live/1038_1.m3u8
 CHC动作电影,http://fyld.eatuo.com:9901/tsfile/live/1039_1.m3u8
 CHC高清电影,http://fyld.eatuo.com:9901/tsfile/live/1044_1.m3u8
 M1905电影,http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-淘电影,http://219.142.147.225:9901/tsfile/live/1010_1.m3u8
+淘电影,http://219.142.151.252:9901/tsfile/live/1010_1.m3u8
 豆瓣TOP250,http://epg.112114.xyz/douyu/8770422
 特辑电影,http://epg.112114.xyz/douyu/3637778
 科幻电影,http://epg.112114.xyz/douyu/323876
