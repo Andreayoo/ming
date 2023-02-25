@@ -284,15 +284,14 @@ CHC家庭影院,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcjtyyH
 M1905电影,http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
 淘电影,http://219.142.150.193:9901/tsfile/live/1010_1.m3u8
 豆瓣TOP250,http://epg.112114.xyz/douyu/8770422
-豆瓣高分,http://epg.112114.xyz/douyu/52787
 60帧蓝光,http://epg.112114.xyz/douyu/747764
 小宇60帧,http://epg.112114.xyz/douyu/323876
 low君解说,http://epg.112114.xyz/douyu/8461020
 大蓝雀解说,http://epg.112114.xyz/douyu/8656759
 可乐电影,http://epg.112114.xyz/douyu/20415
-小饼电影,http://epg.112114.xyz/douyu/1735337
-科幻电影,http://epg.112114.xyz/douyu/323876
+栗子电影,http://epg.112114.xyz/douyu/7254536
 奶虫电影,http://epg.112114.xyz/douyu/263824
+冰冰剧场,http://epg.112114.xyz/douyu/74374
 贝贝电影,http://epg.112114.xyz/douyu/431460
 贝爷影厅,http://epg.112114.xyz/douyu/252802
 贝爷MAX厅,http://epg.112114.xyz/douyu/4332
