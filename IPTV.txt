@@ -273,7 +273,7 @@ EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 4K测试,http://[2409:8087:7001:20:3::5]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226352/index.m3u8
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 影院4K,http://epg.112114.xyz/douyu/9249162
-北京IPTV4K,http://219.142.148.94:9901/tsfile/live/1011_1.m3u8
+北京IPTV4K,http://219.142.149.158:9901/tsfile/live/1011_1.m3u8
 欢笑剧场4K,http://[2409:8087:7001:20:2::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
@@ -282,7 +282,7 @@ CHC高清电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcgqdyH
 CHC动作电影,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcdzdyHD/__op/default/__f/index.m3u8
 CHC家庭影院,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/chcjtyyHD/__op/default/__f/index.m3u8
 M1905电影,http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-淘电影,http://219.142.150.193:9901/tsfile/live/1010_1.m3u8
+淘电影,http://219.142.150.112:9901/tsfile/live/1010_1.m3u8
 周星星,http://epg.112114.xyz/huya/11342412
 纪录片,http://epg.112114.xyz/huya/21059609
 豆瓣TOP250,http://epg.112114.xyz/douyu/8770422
