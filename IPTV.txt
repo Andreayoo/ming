@@ -207,7 +207,7 @@ EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 曼联MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 咪咕运动,http://39.135.134.18/PLTV/88888888/224/3221226053/index.m3u8
-咪咕4K,http://117.136.156.71:80/000000001000/3000000010000005180/index.m3u8?
+咪咕4K,http://[2409:8087:1400:26::1012]/PLTV/88888888/224/3221226700/index.m3u8
 咪咕1,http://[2409:8087:2001:20:2800:0:df6e:eb09]/ott.mobaibox.com/PLTV/3/224/3221227529/index.m3u8
 咪咕2,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
 咪咕3,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221228193/index.m3u8
