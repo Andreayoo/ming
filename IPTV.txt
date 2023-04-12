@@ -1,11 +1,11 @@
 央视,#genre#
-CCTV1,http://huth.2288.org:4000/udp/235.254.199.51:7980
+CCTV1,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.102:4056
 CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8
 CCTV2,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221227543/index.m3u8
 CCTV3,http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/3221228126/index.m3u8
 CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221228091/index.m3u8
-CCTV5,http://huth.2288.org:4000/udp/235.254.198.54:1492
-CCTV5+,http://huth.2288.org:4000/udp/235.254.199.121:7980
+CCTV5,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.232:4056
+CCTV5+,http://mrcat.myqnapcloud.com:4022/udp/239.81.0.101:4056
 CCTV6,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/3/224/3221228280/index.m3u8
 CCTV7,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228283/index.m3u8
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221228194/index.m3u8
@@ -186,7 +186,7 @@ CCTV17,http://live.cooltv.top/tv/aishang.php?id=cctv17hd
 大亚湾卫视,http://http://fxhack.f3322.org:8000/rtp/239.77.0.215:5146
 
 体育-咪咕体育,#genre#
-广东体育,http://fyld.eatuo.com:9901/tsfile/live/1012_1.m3u8
+广东体育,http://r.jdshipin.com/LiYdg
 南国都市,https://justsometime.gztv.com/sec/shenghuos.m3u8
 山东体育,http://119.164.216.162:9901/tsfile/live/1002_1.m3u8
 新视觉HD,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
@@ -277,7 +277,7 @@ CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 影院4K,http://epg.112114.xyz/douyu/9249162
 华数4K,http://39.134.136.161:6610/000000001000/6000000003000004748/index.m3u8?stbId=3&livemode=1&channel-id=wasusyt&Contentid=6000000003000004748
-北京IPTV4K,http://219.142.149.55:9901/tsfile/live/23073_1.m3u8
+北京IPTV4K,http://61.148.223.18:8888/newlive/live/hls/73/live.m3u8
 欢笑剧场4K,http://[2409:8087:7001:20:2::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
@@ -286,8 +286,7 @@ CHC家庭影院,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240323_1/pl
 CHC动作电影,http://113.62.253.22/live.aishang.ctlcdn.com/00000110240324_1/playlist.m3u8?CONTENTID=00000110240324_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 CHC高清电影,http://113.62.253.19/live.aishang.ctlcdn.com/00000110240325_1/playlist.m3u8?CONTENTID=00000110240325_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 M1905电影,http://111.177.34.81/hlslive2.ks-cdn.m1905.com/live/LIVE8J4LTCXPI7QJ5/index.m3u8
-电影放映厅HD,http://ws-video.kktv8.com/livekktv-104621340--20230211201815.m3u8
-淘电影,http://219.142.149.55:9901/tsfile/live/23076_1.m3u8
+淘电影,http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
 周星星,http://epg.112114.xyz/huya/11342412
 纪录片,http://epg.112114.xyz/huya/21059609
 豆瓣TOP250,http://epg.112114.xyz/douyu/8770422
