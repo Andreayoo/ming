@@ -129,7 +129,7 @@ CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 内蒙古卫视,http://39.134.193.112:6610/030000001000/G_NEIMENGGU/index.m3u8?livemode=1
-大亚湾卫视,http://116.30.163.58:40000/rtp/239.77.0.215:5146
+大亚湾卫视,http://61.144.21.143:8888/rtp/239.77.0.215:5146
 湖南卫视,http://39.134.193.112:6610/030000001000/HNWS-HD/index.m3u8?livemode=1
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -261,15 +261,17 @@ CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224
 CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 LOVE NATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-广东综艺4K,http://116.30.163.58:40000/udp/239.77.1.237:5146
+广东综艺4K,http://61.144.21.143:8888/udp/239.77.1.237:5146
 百事通4K电影,http://101.83.37.206:10000/rtp/239.45.1.42:5140
 百事通4K纪实,http://101.83.37.206:10000/rtp/239.45.1.10:5140
 百事通4K儿童,http://101.83.37.206:10000/rtp/239.45.1.1:5140
-绚影4K,http://171.223.199.146:8123/udp/239.93.42.33:5140
-4K超高清电影,http://171.223.199.146:8123/udp/239.93.1.156:5140
-4K乐享超清,http://171.223.199.146:8123/udp/239.93.0.43:5140
+绚影4K,http://171.214.202.79:4000/udp/239.93.42.33:5140
+4K超高清电影,http://171.214.202.79:4000/udp/239.93.1.156:5140
+4K超高清电影,http://159.75.85.63:5681/sxg.php?id=emdy4k_8000
+4K乐享超清,http://171.214.202.79:4000/udp/239.93.0.43:5140
 4K测试,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+4K影视,http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3&IASHttpSessionId=RR288620230706165825215783
 影院4K,http://epg.112114.xyz/douyu/9249162
 影院4K,http://www.goodiptv.club/douyu/9249162
 北京IPTV4K,http://124.65.3.143:20000/udp/239.3.1.249:8001
