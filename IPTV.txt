@@ -261,7 +261,7 @@ CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224
 CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 LOVE NATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-广东综艺4K,http://116.25.105.120:8888/udp/239.77.1.237:5146
+广东综艺4K,http://121.8.0.248:8899/udp/239.77.1.237:5146
 百事通4K电影,http://101.83.37.206:10000/rtp/239.45.1.42:5140
 百事通4K纪实,http://101.83.37.206:10000/rtp/239.45.1.10:5140
 百事通4K儿童,http://101.83.37.206:10000/rtp/239.45.1.1:5140
@@ -287,7 +287,8 @@ CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch0000009099000
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 淘电影,http://123.122.161.11:19999/udp/239.3.1.250:8001
 淘电影,http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
-1905,http://iiptv.123nat.com:9191/iptv/1905.php?id=1905dy
+1905电影频道,http://zgntv.icu/live/1905.php?id=1905dy
+1905电影频道,http://iiptv.123nat.com:9191/iptv/1905.php?id=1905dy
 周星星,http://epg.112114.xyz/huya/11342412
 纪录片,http://epg.112114.xyz/huya/21059609
 豆瓣TOP250,http://epg.112114.xyz/douyu/8770422
