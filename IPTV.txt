@@ -56,11 +56,11 @@ CCTV3,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240245_1/playlist.m3u
 CCTV3,http://39.134.193.112:6610/030000001000/CCTV-3/index.m3u8?livemode=1
 CCTV4,http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/3/224/3221227658/index.m3u8
 CCTV4,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240316_1/playlist.m3u8?CONTENTID=00000110240316_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV5,https://live.goodiptv.club/api/bestv.php?id=cctv58m/8000000
+CCTV5,http://123.112.245.229:5555/rtp/239.3.1.173:8001
 CCTV5,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221227617/index.m3u8
 CCTV5,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240281_1/playlist.m3u8?CONTENTID=00000110240281_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+CCTV5+,http://123.112.245.229:5555/rtp/239.3.1.130:8004
 CCTV5+,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240128_1/playlist.m3u8?CONTENTID=00000110240128_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
-CCTV5+,http://wabc.ml/sxg.php?id=CCTV-5plusH265_4000
 CCTV5+,http://39.134.193.112:6610/030000001000/G_CCTV-5PLUS/index.m3u8?livemode=1
 CCTV6,https://live.goodiptv.club/api/bestv.php?id=cctv68m/8000000
 CCTV6,http://61.160.152.68/live.aishang.ctlcdn.com/00000110240247_1/playlist.m3u8?CONTENTID=00000110240247_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
@@ -129,7 +129,7 @@ CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 内蒙古卫视,http://39.134.193.112:6610/030000001000/G_NEIMENGGU/index.m3u8?livemode=1
-大亚湾卫视,http://113.92.92.151:10001/rtp/239.77.0.215:5146
+大亚湾卫视,http://219.137.64.28:4022/rtp/239.77.0.215:5146
 湖南卫视,http://39.134.193.112:6610/030000001000/HNWS-HD/index.m3u8?livemode=1
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -261,7 +261,7 @@ CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224
 CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 LOVE NATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-广东综艺4K,http://113.92.92.151:10001/udp/239.77.1.237:5146
+广东综艺4K,http://219.137.64.28:4022/udp/239.77.1.237:5146
 百事通4K电影,http://101.83.37.206:10000/rtp/239.45.1.42:5140
 百事通4K纪实,http://101.83.37.206:10000/rtp/239.45.1.10:5140
 百事通4K儿童,http://101.83.37.206:10000/rtp/239.45.1.1:5140
@@ -274,7 +274,7 @@ LOVE NATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
 影院4K,http://epg.112114.xyz/douyu/9249162
 影院4K,http://www.goodiptv.club/douyu/9249162
-北京IPTV4K,http://123.122.161.11:19999/udp/239.3.1.249:8001
+北京IPTV4K,http://123.112.245.229:5555/udp/239.3.1.249:8001
 欢笑剧场4K,http://[2409:8087:7001:20:2::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 纯享4K,http://[2409:8087:2001:20:2800:0:df6e:eb10]/ott.mobaibox.com/PLTV/3/224/3221227506/index.m3u8
@@ -285,10 +285,9 @@ LOVE NATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 CHC动作电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002055/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC家庭影院,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002085/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CHC高清电影,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002065/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-淘电影,http://123.122.161.11:19999/udp/239.3.1.250:8001
+淘电影,http://123.112.245.229:5555/udp/239.3.1.250:8001
 淘电影,http://61.148.223.18:8888/newlive/live/hls/57/live.m3u8
 1905电影频道,http://zgntv.icu/live/1905.php?id=1905dy
-1905电影频道,http://iiptv.123nat.com:9191/iptv/1905.php?id=1905dy
 周星星,http://epg.112114.xyz/huya/11342412
 纪录片,http://epg.112114.xyz/huya/21059609
 豆瓣TOP250,http://epg.112114.xyz/douyu/8770422
