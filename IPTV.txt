@@ -16,7 +16,7 @@ CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/3/224/3
 CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8
 CCTV15,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
-CCTV16-4K,http://114.95.200.64:10001/rtp/239.45.0.12:5140
+CCTV16-4K,http://101.83.36.97:10000/rtp/239.45.0.12:5140
 CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8
 CCTV-4K,http://lu1.cc/itv/php/cctv4k.php
 CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
@@ -129,7 +129,7 @@ CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 内蒙古卫视,http://39.134.193.112:6610/030000001000/G_NEIMENGGU/index.m3u8?livemode=1
-大亚湾卫视,http://218.19.110.118:58888/rtp/239.77.0.215:5146
+大亚湾卫视,http://113.65.4.79:19999/rtp/239.77.0.215:5146
 湖南卫视,http://39.134.193.112:6610/030000001000/HNWS-HD/index.m3u8?livemode=1
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -261,10 +261,10 @@ CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224
 CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 LOVE NATURE 4K,https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
-广东综艺4K,http://218.19.110.118:58888/udp/239.77.1.237:5146
-百事通4K电影,http://114.95.200.64:10001/rtp/239.45.1.42:5140
-百事通4K纪实,http://114.95.200.64:10001/rtp/239.45.1.10:5140
-百事通4K儿童,http://114.95.200.64:10001/rtp/239.45.1.1:5140
+广东综艺4K,http://113.65.4.79:19999/udp/239.77.1.237:5146
+百事通4K电影,http://101.83.36.97:10000/rtp/239.45.1.42:5140
+百事通4K纪实,http://101.83.36.97:10000/rtp/239.45.1.10:5140
+百事通4K儿童,http://101.83.36.97:10000/rtp/239.45.1.1:5140
 绚影4K,http://183.222.206.14:8096/udp/239.93.42.33:5140
 4K超高清电影,http://183.222.206.14:8096/udp/239.93.1.156:5140
 4K超高清电影,http://159.75.85.63:5681/sxg.php?id=emdy4k_8000
