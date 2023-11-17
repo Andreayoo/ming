@@ -249,6 +249,7 @@ EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 4K 影视,#genre#
 8K测试,http://[2409:8087:2001:20:2800:0:df6e:eb04]/ott.mobaibox.com/PLTV/3/224/3221228132/index.m3u8
+北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
 CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8
 南国都市4K,http://113.103.253.43:2000/rtp/239.253.43.99:5146
 广东综艺4K,http://113.103.253.43:2000/udp/239.77.1.237:5146
@@ -261,7 +262,9 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/
 4K乐享超清,http://[2409:8087:7001:20:1000::96]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3&IASHttpSessionId=RR288620230706165825215783
 4K测试,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 4K修复,http://[2409:8087:2001:20:2800:0:df6e:eb14]/ott.mobaibox.com/PLTV/3/224/3221228141/index.m3u8
+IPTV4K,http://nas.jdshipin.com:8801/iptv.php?id=hn4k
 影院4K,http://diyp1.112114.xyz/douyu/9249162
+河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 北京IPTV4K,http://223.72.33.61:2222/udp/239.3.1.249:8001
 欢笑剧场4K,http://[2409:8087:7001:20:2::4]/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 苏州4K,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
