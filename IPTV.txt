@@ -16,13 +16,13 @@ CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb16]/ott.mobaibox.com/PLTV/3/224/3
 CCTV14,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228292/index.m3u8
 CCTV15,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228404/index.m3u8
 CCTV16,http://[2409:8087:2001:20:2800:0:df6e:eb0a]/ott.mobaibox.com/PLTV/3/224/3221228144/index.m3u8
-CCTV16-4K,http://222.70.192.152:8888/rtp/239.45.0.12:5140
+CCTV16-4K,http://222.70.137.69:4022/rtp/239.45.0.12:5140
 CCTV17,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/3/224/3221228407/index.m3u8
 CCTV-4K,http://121.29.111.117:8888/rtp/239.253.93.134:6631
-CETV1,http://222.70.192.152:8888/rtp/239.45.1.125:5140
-CETV2,http://222.70.192.152:8888/rtp/239.45.1.52:5140
+CETV1,http://222.70.137.69:4022/rtp/239.45.1.125:5140
+CETV2,http://222.70.137.69:4022/rtp/239.45.1.52:5140
 CETV3,http://123.118.6.123:8000/rtp/239.3.1.55:4120
-CETV4,http://222.70.192.152:8888/rtp/239.45.0.21:5140
+CETV4,http://222.70.137.69:4022/rtp/239.45.0.21:5140
 早期教育,http://121.29.111.117:8888/rtp/239.253.93.164:6440
 CGTN,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225745/1.m3u8
 CGTN测试,https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL4_600p.smil/playlist.m3u8
@@ -190,7 +190,7 @@ CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/
 新视觉HD,http://tv.328326.com/iptv/sxg.php?id=ycxsjH265_4000
 劲爆体育,http://tv.328326.com/iptv/sxg.php?id=lqhxjcHDH265_4000
 魅力足球,http://tv.328326.com/iptv/sxg.php?id=mlyy_4000
-五星体育,http://222.70.192.152:8888/rtp/239.45.3.210:5140
+五星体育,http://222.70.137.69:4022/rtp/239.45.3.210:5140
 红牛极限运动,http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 Dubai Racing,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
@@ -261,9 +261,9 @@ CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224
 CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
 南国都市4K,http://218.19.110.187:9999/rtp/239.253.43.99:5146
 广东综艺4K,http://218.19.110.187:9999/udp/239.77.1.237:5146
-百事通4K电影,http://222.70.192.152:8888/rtp/239.45.1.42:5140
-百事通4K纪实,http://222.70.192.152:8888/rtp/239.45.1.10:5140
-百事通4K儿童,http://222.70.192.152:8888/rtp/239.45.1.1:5140
+百事通4K电影,http://222.70.137.69:4022/rtp/239.45.1.42:5140
+百事通4K纪实,http://222.70.137.69:4022/rtp/239.45.1.10:5140
+百事通4K儿童,http://222.70.137.69:4022/rtp/239.45.1.1:5140
 百事通4K测试,http://183.222.206.14:8096/udp/239.93.42.75:5140
 中录动漫4K,http://183.222.206.14:8096/udp/239.93.1.188:5140
 绚影4K,http://183.222.206.14:8096/udp/239.93.42.33:5140
