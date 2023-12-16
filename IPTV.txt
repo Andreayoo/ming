@@ -133,7 +133,7 @@ CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 康巴卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226234/1.m3u8
 内蒙古卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001068/index.m3u8
-大亚湾卫视,http://113.103.253.43:2000/rtp/239.77.0.215:5146
+大亚湾卫视,http://14.221.176.170:4022/rtp/239.77.0.215:5146
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 湖南卫视,http://120.196.232.43:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226698/1.m3u8
 东方卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001336/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -185,7 +185,7 @@ CCTV-4K,http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/3/224/
 大亚湾卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226218/index.m3u8
 
 体育-咪咕体育,#genre#
-广东体育,http://113.103.253.43:2000/rtp/239.77.0.112:5146
+广东体育,http://14.221.176.170:4022/rtp/239.77.0.112:5146
 广东体育,http://r.jdshipin.com/LiYdg
 新视觉HD,http://tv.328326.com/iptv/sxg.php?id=ycxsjH265_4000
 劲爆体育,http://tv.328326.com/iptv/sxg.php?id=lqhxjcHDH265_4000
@@ -259,8 +259,8 @@ CCTV-8K,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/3/224/
 CCTV5-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
 CCTV6-4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
 CCTV8-4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
-南国都市4K,http://113.103.253.43:2000/rtp/239.253.43.99:5146
-广东综艺4K,http://113.103.253.43:2000/udp/239.77.1.237:5146
+南国都市4K,http://14.221.176.170:4022/rtp/239.253.43.99:5146
+广东综艺4K,http://14.221.176.170:4022/udp/239.77.1.237:5146
 百事通4K电影,http://61.170.251.165:1024/rtp/239.45.1.42:5140
 百事通4K纪实,http://61.170.251.165:1024/rtp/239.45.1.10:5140
 百事通4K儿童,http://61.170.251.165:1024/rtp/239.45.1.1:5140
