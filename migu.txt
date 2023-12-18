@@ -196,7 +196,7 @@ Dubai Racing,http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smi
 EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 曼联MUTV,https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
 皇马RMTV,https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
-咪咕运动,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226053/index.m3u8
+咪咕运动,http://39.135.134.18/PLTV/88888888/224/3221226053/index.m3u8
 咪咕4K,http://39.134.67.226/PLTV/88888888/224/3221225655/index.m3u8
 咪咕1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 咪咕2,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8
