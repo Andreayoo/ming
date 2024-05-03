@@ -93,7 +93,7 @@ CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 凤凰中文,http://182.148.142.91:8888/udp/239.93.1.9:2192
 凤凰资讯,http://182.148.142.91:8888/udp/239.93.0.118:2191
 凤凰香港,http://43.141.130.51/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.flv
-翡翠台HD,http://cdn.jdshipin.com:8880/tltest.php?id=3
+翡翠台HD,http://58.87.99.251:8090/HK/tvb/hls.m3u8
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 澳亚卫视,https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 星空卫视,http://182.148.142.91:8888/udp/239.93.0.156:2193
@@ -128,7 +128,7 @@ CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 西藏卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225638/index.m3u8
 延边卫视,http://live.ybtvyun.com/video/s10016-6f0dfd97912f/index.m3u8
 内蒙古卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226389/index.m3u8
-大亚湾卫视,http://183.7.14.96:8088/rtp/239.77.0.215:5146
+大亚湾卫视,http://116.21.126.222:7777/rtp/239.77.0.215:5146
 湖南卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226961/1.m3u8?fmt=ts2hls
 湖南卫视,http://114.246.181.111:8888/rtp/239.3.1.132:8012
 东方卫视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227018/1.m3u8?fmt=ts2hls
@@ -181,7 +181,8 @@ CCTV-4K,http://159.75.85.63:5679/cctv4k.php
 体育-咪咕体育,#genre#
 睛彩竞技,http://114.246.181.111:8888/udp/239.3.1.125:8001
 睛彩篮球,http://114.246.181.111:8888/udp/239.3.1.126:8001
-广东体育,http://183.7.14.96:8088/rtp/239.77.0.112:5146
+广东体育,http://116.21.126.222:7777/rtp/239.77.0.112:5146
+广东体育,http://php.jdshipin.com:8880/TVOD/iptv.php?id=gdty
 新视觉HD,http://tv.dlwmkj.com/php2021/bfy.php?id=249
 劲爆体育,http://182.148.142.91:8888/udp/239.93.42.98:5140
 魅力足球,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227123/index.m3u8?fmt=ts2hls
@@ -239,8 +240,8 @@ EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 
 4K 影视,#genre#
 北京纪实8K,http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-南国都市4K,http://183.7.14.96:8088/rtp/239.253.43.99:5146
-广东综艺4K,http://183.7.14.96:8088/udp/239.77.1.237:5146
+南国都市4K,http://116.21.126.222:7777/rtp/239.253.43.99:5146
+广东综艺4K,http://116.21.126.222:7777/udp/239.77.1.237:5146
 河南卫视4K,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8
 北京IPTV4K,http://114.246.181.111:8888/udp/239.3.1.249:8001
 欢笑剧场4K,http://223.167.60.127:18888/rtp/239.45.1.4:5140
@@ -255,7 +256,7 @@ EDGESport,https://edgesports-sportstribal.amagi.tv/playlist.m3u8
 4K乐享超清,http://[2409:8087:5e08:24::4]:6610/000000001000/2000000004000000014/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000014
 4K乐享超清,http://182.148.142.91:8888/udp/239.93.0.43:5140
 4K测试,http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-影院4K,http://159.75.85.63:35455/douyu/9249162
+影院4K,http://43.138.170.29:35455/douyu/9249162
 求索纪录,http://[2409:8087:4402:20:1:1216:401:38]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226114/index.m3u8
 求索动物,http://[2409:8087:4402:20:1:1216:401:41]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226118/index.m3u8
 求索生活,http://[2409:8087:4402:20:1:1216:401:43]/iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226116/index.m3u8
@@ -268,46 +269,6 @@ CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807
 云上新郑,http://vod.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226492/index.m3u8?servicetype=1
 1905环球经典,http://php.jdshipin.com:8880/1905.php?id=1905dy2
 1905极限反转,http://php.jdshipin.com:8880/1905.php?id=1905dy
-周星星,http://zzy789.xyz/douyu1.php?id=122402
-豆瓣TOP250,http://159.75.85.63:35455/douyu/8770422
-高分电影,http://159.75.85.63:35455/douyu/52787
-60帧蓝光,http://159.75.85.63:35455/douyu/747764
-小宇60帧,http://159.75.85.63:35455/douyu/323876
-虫哥解说,http://159.75.85.63:35455/douyu/8915074
-刘哔讲电影,http://159.75.85.63:35455/douyu/2632223
-大蓝雀解说,http://159.75.85.63:35455/douyu/8656759
-科幻Fans解说,http://159.75.85.63:35455/douyu/3508304
-科幻Fans解说,http://zzy789.xyz/douyu1.php?id=3508304
-万合天宜,http://159.75.85.63:35455/douyu/9220456
-可乐电影,http://159.75.85.63:35455/douyu/20415
-奶虫电影,http://159.75.85.63:35455/douyu/263824
-小鸽电影,http://159.75.85.63:35455/douyu/3928
-冰冰剧场,http://159.75.85.63:35455/douyu/74374
-贝贝电影,http://159.75.85.63:35455/douyu/431460
-贝爷影厅,http://159.75.85.63:35455/douyu/252802
-贝爷影视,http://159.75.85.63:35455/douyu/36337
-贝爷MAX厅,http://159.75.85.63:35455/douyu/4332
-蓝翔电影,http://159.75.85.63:35455/douyu/276200
-粤语电影,http://159.75.85.63:35455/douyu/6566671
-粤语电影2,http://159.75.85.63:35455/douyu/1226741
-小鸭影视,http://159.75.85.63:35455/douyu/7925840
-特辑电影,http://159.75.85.63:35455/douyu/3637778
-PDD影院,http://159.75.85.63:35455/douyu/1274132
-经典高分,http://159.75.85.63:35455/douyu/7254536
-华语电影,http://159.75.85.63:35455/douyu/8465358
-华语经典,http://159.75.85.63:35455/douyu/85894
-漫威主线,http://159.75.85.63:35455/douyu/6140589
-经典剧场,http://159.75.85.63:35455/douyu/413573
-云宝剧场,http://159.75.85.63:35455/douyu/7305938
-恐怖电影,http://159.75.85.63:35455/douyu/218859
-恐怖剧场,http://159.75.85.63:35455/douyu/96577
-怡宝电影,http://159.75.85.63:35455/douyu/434971
-欧美大片,http://159.75.85.63:35455/douyu/2793084
-香港电影,http://159.75.85.63:35455/douyu/315457
-经典港剧,http://159.75.85.63:35455/douyu/4549169
-动漫剧场,http://159.75.85.63:35455/douyu/1174353
-动漫合集,http://159.75.85.63:35455/douyu/7620081
-音乐MV,http://159.75.85.63:35455/douyu/3186217
 金马影院,https://pull.kktv8.com/livekktv/128600025.flv
 iHOT爱喜剧,http://[2409:8087:5e08:24::4]:6610/000000001000/2000000004000000032/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000032
 iHOT爱科幻,http://[2409:8087:5e08:24::4]:6610/000000001000/2000000004000000033/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000033
@@ -431,132 +392,301 @@ NewTV精品萌宠,http://[2409:8087:5e00:24::1e]:6060/200000001898/4600000898000
 功夫,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226962/index.m3u8?fmt=ts2hls
 导视,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226934/index.m3u8?fmt=ts2hls
 
+斗鱼,#genre#
+影视4K,http://allinone.netsite.cc/douyu/9249162
+周星星,https://tv.iill.top/douyu/122402
+周星星,http://allinone.netsite.cc/douyu/122402
+豆瓣TOP250,http://159.75.85.63:35455/douyu/8770422
+高分电影,http://159.75.85.63:35455/douyu/52787
+60帧蓝光,http://159.75.85.63:35455/douyu/747764
+小宇60帧,http://159.75.85.63:35455/douyu/323876
+科幻Fans解说,http://159.75.85.63:35455/douyu/3508304
+科幻Fans解说,http://zzy789.xyz/douyu1.php?id=3508304
+电影社,http://159.75.85.63:35455/douyu/11880223
+蓉城电影,http://159.75.85.63:35455/douyu/11137425
+神乐电影,http://159.75.85.63:35455/douyu/85894
+可乐电影,http://159.75.85.63:35455/douyu/20415
+奶虫电影,http://159.75.85.63:35455/douyu/263824
+小鬼电影,http://159.75.85.63:35455/douyu/3928
+冰城剧场,http://159.75.85.63:35455/douyu/74374
+贝贝电影,http://159.75.85.63:35455/douyu/431460
+贝爷影厅,http://159.75.85.63:35455/douyu/252802
+贝爷影视,http://159.75.85.63:35455/douyu/36337
+贝爷MAX厅,http://159.75.85.63:35455/douyu/4332
+漫威主线,http://159.75.85.63:35455/douyu/11673725
+经典电影,http://159.75.85.63:35455/douyu/5668371
+蓝翔电影,http://159.75.85.63:35455/douyu/276200
+粤语电影,http://159.75.85.63:35455/douyu/6566671
+粤语电影2,http://159.75.85.63:35455/douyu/1226741
+特辑电影,http://159.75.85.63:35455/douyu/3637778
+PDD影院,http://159.75.85.63:35455/douyu/1274132
+经典剧场,http://159.75.85.63:35455/douyu/413573
+恐怖剧院,http://159.75.85.63:35455/douyu/2935323
+恐怖电影,http://159.75.85.63:35455/douyu/218859
+恐怖剧场,http://159.75.85.63:35455/douyu/96577
+电影天堂,http://159.75.85.63:35455/douyu/3811092
+网神影厅,http://159.75.85.63:35455/douyu/508118
+怡宝电影,http://159.75.85.63:35455/douyu/434971
+欧美大片,http://159.75.85.63:35455/douyu/2793084
+欣欣影厅,http://159.75.85.63:35455/douyu/11996166
+菜b惊怂院,http://159.75.85.63:35455/douyu/7882691
+麓山迷踪,http://159.75.85.63:35455/douyu/4505431
+香港电影,http://159.75.85.63:35455/douyu/315457
+龙门镖局,http://159.75.85.63:35455/douyu/9650860
+顺才少爷,http://159.75.85.63:35455/douyu/10084875
+怀旧剧场,http://159.75.85.63:35455/douyu/7119270
+港剧天地,http://159.75.85.63:35455/douyu/5522351
+经典港剧,http://159.75.85.63:35455/douyu/4549169
+记忆港剧,http://159.75.85.63:35455/douyu/11645048
+古装神剧,http://159.75.85.63:35455/douyu/338759
+动漫剧场,http://159.75.85.63:35455/douyu/1174353
+动漫合集,http://159.75.85.63:35455/douyu/7620081
+成龙历险纪,http://159.75.85.63:35455/douyu/2287949
+草帽海贼团,http://159.75.85.63:35455/douyu/997925
+鼎香楼故事,http://159.75.85.63:35455/douyu/299854
+万合天宜,http://159.75.85.63:35455/douyu/9220456
+电影最TOP,http://159.75.85.63:35455/douyu/2164691
+刘老师说电影,http://159.75.85.63:35455/douyu/8317926
+周扒片深度解说,http://159.75.85.63:35455/douyu/6434857
+1900影剧室,http://159.75.85.63:35455/douyu/7796193
+小片片说大片,http://159.75.85.63:35455/douyu/4258555
+牛叔解说,http://159.75.85.63:35455/douyu/2758565
+牛叔2台http://159.75.85.63:35455/douyu/10010651
+虫哥解说,http://159.75.85.63:35455/douyu/8915074
+大蓝雀解说,http://159.75.85.63:35455/douyu/8656759
+老邪说电影,http://159.75.85.63:35455/douyu/9222870
+刘哔讲电影,http://159.75.85.63:35455/douyu/2632223
+科学黑历史,http://159.75.85.63:35455/douyu/9317739
+周杰伦MV,http://159.75.85.63:35455/douyu/7537296
+音乐MV,http://159.75.85.63:35455/douyu/3870925
+
 🐆虎牙,#genre#
-周星驰,http://8.137.57.240:81/hy.php?url=11342412
-周星驰-粤语,http://8.137.57.240:81/hy.php?url=11336587
-林正英,http://8.137.57.240:81/hy.php?url=11342421
-沈腾,http://8.137.57.240:81/hy.php?url=11601968
-成龙,http://8.137.57.240:81/hy.php?url=11342386
-刘德华,http://8.137.57.240:81/hy.php?url=11342424
-李连杰,http://8.137.57.240:81/hy.php?url=11342390
-洪金宝,http://8.137.57.240:81/hy.php?url=11279251
-周润发,http://8.137.57.240:81/hy.php?url=11342387
-梁家辉,http://8.137.57.240:81/hy.php?url=11342429
-甄子丹,http://8.137.57.240:81/hy.php?url=11352935
-许冠英,http://8.137.57.240:81/hy.php?url=11601972
-王晶,http://8.137.57.240:81/hy.php?url=11602058
-许氏三杰,http://8.137.57.240:81/hy.php?url=11602033
-五福星,http://8.137.57.240:81/hy.php?url=11282233
-流浪地球,http://8.137.57.240:81/hy.php?url=880261
-搞笑恐怖,http://8.137.57.240:81/hy.php?url=11601960
-喜剧专场,http://8.137.57.240:81/hy.php?url=11602044
-喜剧电影,http://8.137.57.240:81/hy.php?url=11352897
-搞笑喜剧,http://8.137.57.240:81/hy.php?url=11342423
-黑帮大片,http://8.137.57.240:81/hy.php?url=11336719
-警匪,http://8.137.57.240:81/hy.php?url=11352886
-历年贺岁档,http://8.137.57.240:81/hy.php?url=11601986
-香港贺岁片,http://8.137.57.240:81/hy.php?url=11601971
-飙车,http://8.137.57.240:81/hy.php?url=11352894
-经典电影,http://8.137.57.240:81/hy.php?url=11342427
-中国功夫,http://8.137.57.240:81/hy.php?url=11352941
-高智商罪犯,http://8.137.57.240:81/hy.php?url=11352962
-简小熙电影,http://8.137.57.240:81/hy.php?url=11342399
-黑帮斗争,http://8.137.57.240:81/hy.php?url=11342419
-女神系列,http://8.137.57.240:81/hy.php?url=11336571
-快意江湖,http://8.137.57.240:81/hy.php?url=11342435
-yoo电影,http://8.137.57.240:81/hy.php?url=11352876
-经典女神,http://8.137.57.240:81/hy.php?url=11352909
-十一推荐,http://8.137.57.240:81/hy.php?url=11602041
-古墓系列,http://8.137.57.240:81/hy.php?url=11352913
-动作电影,http://8.137.57.240:81/hy.php?url=11602077
-妖孽CC,http://8.137.57.240:81/hy.php?url=11352945
-烧脑悬疑,http://8.137.57.240:81/hy.php?url=11352880
-玄幻剧场,http://8.137.57.240:81/hy.php?url=11342414
-小蘑菇,http://8.137.57.240:81/hy.php?url=11601981
-赛车电影,http://8.137.57.240:81/hy.php?url=11279247
-玄幻专场,http://8.137.57.240:81/hy.php?url=11352973
-经典港剧,http://8.137.57.240:81/hy.php?url=11352965
-经典港片,http://8.137.57.240:81/hy.php?url=11602043
-国产悬疑,http://8.137.57.240:81/hy.php?url=11342395
-七夕特辑,http://8.137.57.240:81/hy.php?url=11352883
-世界杯电影,http://8.137.57.240:81/hy.php?url=11352963
-法外狂徒张三,http://8.137.57.240:81/hy.php?url=11601965
-梦华录,http://8.137.57.240:81/hy.php?url=11336590
-雪中悍刀行,http://8.137.57.240:81/hy.php?url=11336592
-将夜,http://8.137.57.240:81/hy.php?url=11352885
-镖行天下,http://8.137.57.240:81/hy.php?url=11352969
-铁齿铜牙纪晓岚,http://8.137.57.240:81/hy.php?url=11342396
-庆余年,http://8.137.57.240:81/hy.php?url=11352960
-爱情公寓,http://8.137.57.240:81/hy.php?url=11336726
-雍正王朝,http://8.137.57.240:81/hy.php?url=11342439
-新三国,http://8.137.57.240:81/hy.php?url=11352944
-士兵突击,http://8.137.57.240:81/hy.php?url=11342430
-邻里一家亲,http://8.137.57.240:81/hy.php?url=11342426
-家有儿女,http://8.137.57.240:81/hy.php?url=11352872
-父母爱情,http://8.137.57.240:81/hy.php?url=11602071
-地下交通站,http://8.137.57.240:81/hy.php?url=11342433
-新水浒传,http://8.137.57.240:81/hy.php?url=11342384
-阳光的快乐生活,http://8.137.57.240:81/hy.php?url=11602085
-龙门客栈,http://8.137.57.240:81/hy.php?url=11352874
-六子哥,http://8.137.57.240:81/hy.php?url=11602086
-大秦帝国,http://8.137.57.240:81/hy.php?url=11352881
-康熙王朝,http://8.137.57.240:81/hy.php?url=11352940
-老三国,http://8.137.57.240:81/hy.php?url=11602081
-康熙微服私访记,http://8.137.57.240:81/hy.php?url=11342418
-神探狄仁杰,http://8.137.57.240:81/hy.php?url=11342425
-狄仁杰,http://8.137.57.240:81/hy.php?url=11342958
-鬼吹灯,http://8.137.57.240:81/hy.php?url=11352871
-民兵葛二蛋,http://8.137.57.240:81/hy.php?url=11602072
-倚天屠龙记,http://8.137.57.240:81/hy.php?url=11342403
-芈月传,http://8.137.57.240:81/hy.php?url=11352965
-一代枭雄,http://8.137.57.240:81/hy.php?url=11342398
-神医喜来乐,http://8.137.57.240:81/hy.php?url=11601978
-新神雕侠侣,http://8.137.57.240:81/hy.php?url=11352964
-炊事班的故事,http://8.137.57.240:81/hy.php?url=19524135
-好先生,http://8.137.57.240:81/hy.php?url=11602088
-白鹿原,http://8.137.57.240:81/hy.php?url=11342416
-我的团长我的团,http://8.137.57.240:81/hy.php?url=11352910
-医馆笑传,http://8.137.57.240:81/hy.php?url=11352891
-终极三国,http://8.137.57.240:81/hy.php?url=21059562
-抗日游击队,http://8.137.57.240:81/hy.php?url=11352936
-宝莲灯,http://8.137.57.240:81/hy.php?url=21059563
-你是我的荣耀,http://8.137.57.240:81/hy.php?url=11352920
-金庸经典剧,http://8.137.57.240:81/hy.php?url=11602082
-活佛济公,http://8.137.57.240:81/hy.php?url=11342400
-铁梨花,http://8.137.57.240:81/hy.php?url=11352912
-娇妹直播间,http://8.137.57.240:81/hy.php?url=11342404
-钢铁战队,http://8.137.57.240:81/hy.php?url=11336578
-武侠剧,http://8.137.57.240:81/hy.php?url=11352952
-新中华小当家,http://8.137.57.240:81/hy.php?url=24257300
-吕不韦传奇,http://8.137.57.240:81/hy.php?url=11352953
-狼毒花,http://8.137.57.240:81/hy.php?url=11602042
-极限挑战,http://8.137.57.240:81/hy.php?url=11352914
-海妖的呼唤,http://8.137.57.240:81/hy.php?url=11602075
+周星驰,http://live.metshop.top/huya/11342412
+周星驰-粤语,http://tv.iill.top/huya/11336587
+林正英,http://cfss.cc/cdn/hy/11342421
+沈腾,http://www.goodiptv.club/huya/11601968
+成龙,http://www.goodiptv.club/huya/11342386
+刘德华,http://www.goodiptv.club/huya/11342424
+李连杰,http://www.goodiptv.club/huya/11342390
+洪金宝,http://www.goodiptv.club/huya/11279251
+周润发,http://www.goodiptv.club/huya/11342387
+梁家辉,http://www.goodiptv.club/huya/11342429
+甄子丹,http://www.goodiptv.club/huya/11352935
+许冠英,http://www.goodiptv.club/huya/11601972
+王晶,http://www.goodiptv.club/huya/11602058
+许氏三杰,http://www.goodiptv.club/huya/11602033
+五福星,http://www.goodiptv.club/huya/11282233
+流浪地球,http://www.goodiptv.club/huya/880261
+搞笑恐怖,http://www.goodiptv.club/huya/11601960
+喜剧专场,http://www.goodiptv.club/huya/11602044
+喜剧电影,http://www.goodiptv.club/huya/11352897
+搞笑喜剧,http://www.goodiptv.club/huya/11342423
+黑帮大片,http://www.goodiptv.club/huya/11336719
+警匪,http://www.goodiptv.club/huya/11352886
+历年贺岁档,http://www.goodiptv.club/huya/11601986
+香港贺岁片,http://www.goodiptv.club/huya/11601971
+飙车,http://www.goodiptv.club/huya/11352894
+经典电影,http://www.goodiptv.club/huya/11342427
+中国功夫,http://www.goodiptv.club/huya/11352941
+高智商罪犯,http://www.goodiptv.club/huya/11352962
+简小熙电影,http://www.goodiptv.club/huya/11342399
+黑帮斗争,http://www.goodiptv.club/huya/11342419
+女神系列,http://www.goodiptv.club/huya/11336571
+快意江湖,http://www.goodiptv.club/huya/11342435
+yoo电影,http://www.goodiptv.club/huya/11352876
+经典女神,http://www.goodiptv.club/huya/11352909
+十一推荐,http://www.goodiptv.club/huya/11602041
+古墓系列,http://www.goodiptv.club/huya/11352913
+动作电影,http://www.goodiptv.club/huya/11602077
+妖孽CC,http://www.goodiptv.club/huya/11352945
+烧脑悬疑,http://www.goodiptv.club/huya/11352880
+玄幻剧场,http://www.goodiptv.club/huya/11342414
+小蘑菇,http://www.goodiptv.club/huya/11601981
+赛车电影,http://www.goodiptv.club/huya/11279247
+玄幻专场,http://www.goodiptv.club/huya/11352973
+经典港剧,http://www.goodiptv.club/huya/11352965
+经典港片,http://www.goodiptv.club/huya/11602043
+国产悬疑,http://www.goodiptv.club/huya/11342395
+七夕特辑,http://www.goodiptv.club/huya/11352883
+世界杯电影,http://www.goodiptv.club/huya/11352963
+法外狂徒张三,http://www.goodiptv.club/huya/11601965
+梦华录,http://www.goodiptv.club/huya/11336590
+雪中悍刀行,http://www.goodiptv.club/huya/11336592
+将夜,http://www.goodiptv.club/huya/11352885
+镖行天下,http://www.goodiptv.club/huya/11352969
+铁齿铜牙纪晓岚,http://www.goodiptv.club/huya/11342396
+庆余年,http://www.goodiptv.club/huya/11352960
+爱情公寓,http://www.goodiptv.club/huya/11336726
+雍正王朝,http://www.goodiptv.club/huya/11342439
+新三国,http://www.goodiptv.club/huya/11352944
+士兵突击,http://www.goodiptv.club/huya/11342430
+邻里一家亲,http://www.goodiptv.club/huya/11342426
+家有儿女,http://www.goodiptv.club/huya/11352872
+父母爱情,http://www.goodiptv.club/huya/11602071
+地下交通站,http://www.goodiptv.club/huya/11342433
+新水浒传,http://www.goodiptv.club/huya/11342384
+阳光的快乐生活,http://www.goodiptv.club/huya/11602085
+龙门客栈,http://www.goodiptv.club/huya/11352874
+六子哥,http://www.goodiptv.club/huya/11602086
+大秦帝国,http://www.goodiptv.club/huya/11352881
+康熙王朝,http://www.goodiptv.club/huya/11352940
+老三国,http://www.goodiptv.club/huya/11602081
+康熙微服私访记,http://www.goodiptv.club/huya/11342418
+神探狄仁杰,http://www.goodiptv.club/huya/11342425
+狄仁杰,http://www.goodiptv.club/huya/11342958
+鬼吹灯,http://www.goodiptv.club/huya/11352871
+民兵葛二蛋,http://www.goodiptv.club/huya/11602072
+倚天屠龙记,http://www.goodiptv.club/huya/11342403
+芈月传,http://www.goodiptv.club/huya/11352965
+一代枭雄,http://www.goodiptv.club/huya/11342398
+神医喜来乐,http://www.goodiptv.club/huya/11601978
+新神雕侠侣,http://www.goodiptv.club/huya/11352964
+炊事班的故事,http://www.goodiptv.club/huya/19524135
+好先生,http://www.goodiptv.club/huya/11602088
+白鹿原,http://www.goodiptv.club/huya/11342416
+我的团长我的团,http://www.goodiptv.club/huya/11352910
+医馆笑传,http://www.goodiptv.club/huya/11352891
+终极三国,http://www.goodiptv.club/huya/21059562
+抗日游击队,http://www.goodiptv.club/huya/11352936
+宝莲灯,http://www.goodiptv.club/huya/21059563
+你是我的荣耀,http://www.goodiptv.club/huya/11352920
+金庸经典剧,http://www.goodiptv.club/huya/11602082
+活佛济公,http://www.goodiptv.club/huya/11342400
+铁梨花,http://www.goodiptv.club/huya/11352912
+娇妹直播间,http://www.goodiptv.club/huya/11342404
+钢铁战队,http://www.goodiptv.club/huya/11336578
+武侠剧,http://www.goodiptv.club/huya/11352952
+新中华小当家,http://www.goodiptv.club/huya/24257300
+吕不韦传奇,http://www.goodiptv.club/huya/11352953
+狼毒花,http://www.goodiptv.club/huya/11602042
+极限挑战,http://www.goodiptv.club/huya/11352914
+海妖的呼唤,http://www.goodiptv.club/huya/11602075
 
 🔫埋堆堆,#genre#
-封神榜,http://8.137.57.240:81/hy.php?url=23749096
-孙悟空,http://8.137.57.240:81/hy.php?url=23735126
-楚汉骄雄,http://8.137.57.240:81/hy.php?url=23740156
-张卫健西游记,http://8.137.57.240:81/hy.php?url=23728660
-鹿鼎记,http://8.137.57.240:81/hy.php?url=23865080
-天龙八部,http://8.137.57.240:81/hy.php?url=23903123
-刑事侦缉档案,http://8.137.57.240:81/hy.php?url=23734169
-法证先锋,http://8.137.57.240:81/hy.php?url=23863804
-寻秦记,http://8.137.57.240:81/hy.php?url=23864973
-倚天屠龙记,http://8.137.57.240:81/hy.php?url=23734246
-洗冤录,http://8.137.57.240:81/hy.php?url=23903130
-陀枪师姐,http://8.137.57.240:81/hy.php?url=23860039
-神雕侠侣,http://8.137.57.240:81/hy.php?url=23865171
-笑傲江湖,http://8.137.57.240:81/hy.php?url=23865142
-鉴证实录,http://8.137.57.240:81/hy.php?url=23903183
-使徒行者,http://8.137.57.240:81/hy.php?url=23734256
-扫黄先锋,http://8.137.57.240:81/hy.php?url=23903196
-金枝欲孽,http://8.137.57.240:81/hy.php?url=23865036
-创世纪,http://8.137.57.240:81/hy.php?url=23749083
-笑看风云,http://8.137.57.240:81/hy.php?url=23865058
-妙手仁心,http://8.137.57.240:81/hy.php?url=23829543
-大唐双龙传,http://8.137.57.240:81/hy.php?url=23728674
-大时代,http://8.137.57.240:81/hy.php?url=23865161
-野蛮奶奶大战戈师奶,http://8.137.57.240:81/hy.php?url=23863796
-射雕英雄传,http://8.137.57.240:81/hy.php?url=23824164
-梁朝伟鹿鼎记,http://8.137.57.240:81/hy.php?url=23734183
+封神榜,http://www.goodiptv.club/huya/23749096
+孙悟空,http://www.goodiptv.club/huya/23735126
+楚汉骄雄,http://www.goodiptv.club/huya/23740156
+张卫健西游记,http://www.goodiptv.club/huya/23728660
+鹿鼎记,http://www.goodiptv.club/huya/23865080
+天龙八部,http://www.goodiptv.club/huya/23903123
+刑事侦缉档案,http://www.goodiptv.club/huya/23734169
+法证先锋,http://www.goodiptv.club/huya/23863804
+寻秦记,http://www.goodiptv.club/huya/23864973
+倚天屠龙记,http://www.goodiptv.club/huya/23734246
+洗冤录,http://www.goodiptv.club/huya/23903130
+陀枪师姐,http://www.goodiptv.club/huya/23860039
+神雕侠侣,http://www.goodiptv.club/huya/23865171
+笑傲江湖,http://www.goodiptv.club/huya/23865142
+鉴证实录,http://www.goodiptv.club/huya/23903183
+使徒行者,http://www.goodiptv.club/huya/23734256
+扫黄先锋,http://www.goodiptv.club/huya/23903196
+金枝欲孽,http://www.goodiptv.club/huya/23865036
+创世纪,http://www.goodiptv.club/huya/23749083
+笑看风云,http://www.goodiptv.club/huya/23865058
+妙手仁心,http://www.goodiptv.club/huya/23829543
+大唐双龙传,http://www.goodiptv.club/huya/23728674
+大时代,http://www.goodiptv.club/huya/23865161
+野蛮奶奶大战戈师奶,http://www.goodiptv.club/huya/23863796
+射雕英雄传,http://www.goodiptv.club/huya/23824164
+梁朝伟鹿鼎记,http://www.goodiptv.club/huya/23734183
+
+直播中国,#genre#
+全国风景总览,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+天安门,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2012896301/timeshift.m3u8?delay=0&cdn=5202
+北京-南宫温泉休闲度假区,http://gcalic.v.myalicdn.com/gc/tyhjntyz_1/index.m3u8?contentid=2820180516001
+北京-水立方,http://gcalic.v.myalicdn.com/gc/gccntv241-slf01_1/index.m3u8?contentid=2820180516001
+北京-黄花城水长城01,https://gcalic.v.myalicdn.com/gc/wgw01_1/index.m3u8?contentid=2820180516001
+北京-黄花城水长城02,https://gcalic.v.myalicdn.com/gc/wgw02_1/index.m3u8?contentid=2820180516001
+北京-黄花城水长城03,https://gcalic.v.myalicdn.com/gc/wgw03_1/index.m3u8?contentid=2820180516001
+北京-黄花城水长城04,https://gcalic.v.myalicdn.com/gc/wgw04_1/index.m3u8?contentid=2820180516001
+北京-八达岭长城南七楼,http://gcalic.v.myalicdn.com/gc/bgws7_1/index.m3u8?contentid=2820180516001
+北京-中央电视塔东,http://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8?contentid=2820180516001
+天津-天津之眼,https://gcalic.v.myalicdn.com/gc/tjhh01_1/index.m3u8?contentid=2820180516001
+天津-天津海河,https://gcalic.v.myalicdn.com/gc/tjhh02_1/index.m3u8?contentid=2820180516001
+山西-悬空寺全景,https://gcalic.v.myalicdn.com/gc/hsxksqj_1/index.m3u8?contentid=2820180516001
+辽宁-沈阳金廊,https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8?contentid=2820180516001
+黑龙江-雪乡梦幻家园,https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8?contentid=2820180516001
+江苏-无锡鼋头渚长春桥,https://gcksc.v.kcdnvip.com/gc/dlst02_1/index.m3u8?BR=md®ion=beijing
+江苏-无锡鼋头渚赏樱阁,https://gcalic.v.myalicdn.com/gc/pshdxg01_1/index.m3u8?contentid=2820180516001
+江苏-南京牛首山,https://gcalic.v.myalicdn.com/gc/nss01_1/index.m3u8?contentid=2820180516001
+江苏-南京玄武湖公园,https://gcalic.v.myalicdn.com/gc/xwh01_1/index.m3u8?contentid=2820180516001
+江苏-徐州云龙湖观景台西,https://gcalic.v.myalicdn.com/gc/ylh04_1/index.m3u8?contentid=2820180516001
+江苏-徐州云龙湖观景台南,https://gcalic.v.myalicdn.com/gc/ylh03_1/index.m3u8?contentid=2820180516001
+江苏-兴化千垛景区,https://mlivecncc.v.wscdns.com/mlive/mlive_djy02_1/index.m3u8?contentid=2820180516001
+浙江-云栖小镇,https://gcalic.v.myalicdn.com/gc/hnttpgsz_1/index.m3u8?contentid=2820180516001
+浙江-千岛湖,https://gcalic.v.myalicdn.com/gc/caqdh_1/index.m3u8?contentid=2820180516001
+浙江-普陀山,https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8?contentid=2820180516001
+浙江-舟山东极岛,https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8?contentid=2820180516001
+浙江-丽水仙都风景区,https://gcalic.v.myalicdn.com/gc/xdfjq01_1/index.m3u8?contentid=2820180516001
+浙江-乌镇蓝印花布,https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8?contentid=2820180516001
+浙江-乌镇全景,https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8?contentid=2820180516001
+浙江-乌镇西市河,https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8?contentid=2820180516001
+浙江-乌镇龙形田,https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8?contentid=2820180516001
+安徽-西递牌坊,https://gcalic.v.myalicdn.com/gc/yxxdpf_1/index.m3u8?contentid=2820180516001
+安徽-宏村月沼,https://gcalic.v.myalicdn.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
+安徽-西递半山亭,https://gcalic.v.myalicdn.com/gc/yxxdbst_1/index.m3u8?contentid=2820180516001
+安徽-黟县芦村远眺,https://gcalic.v.myalicdn.com/gc/yxlcyt_1/index.m3u8?contentid=2820180516001
+安徽-宏村南湖,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
+安徽-黄山,https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8?contentid=2820180516001
+安徽-黄山始信新道,https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8?contentid=2820180516001
+安徽-黄山卧云峰,https://gcalic.v.myalicdn.com/gc/hswlf_1/index.m3u8?contentid=2820180516001
+安徽-黄山梦笔生花,https://gcalic.v.myalicdn.com/gc/hsmbsh_1/index.m3u8?contentid=2820180516001
+安徽-黄山光明顶,https://gcalic.v.myalicdn.com/gc/hsgmd_1/index.m3u8?contentid=2820180516001
+安徽-黄山飞来石,https://gcalic.v.myalicdn.com/gc/hsptgy_1/index.m3u8?contentid=2820180516001
+安徽-黄山平天矼,https://gcalic.v.myalicdn.com/gc/hsptgz_1/index.m3u8?contentid=2820180516001
+安徽-黄山排云亭,https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8?contentid=2820180516001
+安徽-九华山拜经台,https://gcalic.v.myalicdn.com/gc/jhs02_1/index.m3u8?contentid=2820180516001
+安徽-九华山,https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8?contentid=2820180516001
+安徽-九华山花台,https://gcalic.v.myalicdn.com/gc/jhs01_1/index.m3u8?contentid=2820180516001
+福建-厦门鼓浪屿,https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8?contentid=2820180516001
+福建-武夷山玉女峰,https://gcalic.v.myalicdn.com/gc/wysynf_1/index.m3u8?contentid=2820180516001
+福建-宁德太姥山景区,https://gcalic.v.myalicdn.com/gc/tms01_1/index.m3u8?contentid=2820180516001
+福建-漳州六鳌翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw01_1/index.m3u8?contentid=2820180516001
+福建-醉美沙滩翡翠湾,https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8?contentid=2820180516001
+江西-婺源江岭2号观景台,https://gcalic.v.myalicdn.com/gc/wygjt2_1/index.m3u8?contentid=2820180516001
+江西-婺源江岭1号观景台,https://gcalic.v.myalicdn.com/gc/wygjt1_1/index.m3u8?contentid=2820180516001
+江西-龙虎山-中间水泡,https://gcalic.v.myalicdn.com/gc/lhszjsp_1/index.m3u8?contentid=2820180516001
+山东-泰山,https://gcalic.v.myalicdn.com/gc/taishan04_1/index.m3u8?contentid=2820180516001
+山东-泰山主峰,https://gcalic.v.myalicdn.com/gc/taishan01_1/index.m3u8?contentid=2820180516001
+山东-瞻鲁台,https://gcalic.v.myalicdn.com/gc/hkts06_1/index.m3u8?contentid=2820180516001
+山东-泰山十八盘,https://gcalic.v.myalicdn.com/gc/taishan05_1/index.m3u8?contentid=2820180516001
+山东-玉皇顶西,https://gcalic.v.myalicdn.com/gc/hkts11_1/index.m3u8?contentid=2820180516001
+山东-玉皇顶东,https://gcalic.v.myalicdn.com/gc/hkts10_1/index.m3u8?contentid=2820180516001
+山东-太平岭,https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8?contentid=2820180516001
+山东-扇子崖,https://gcalic.v.myalicdn.com/gc/hkts08_1/index.m3u8?contentid=2820180516001
+山东-南天门,https://gcalic.v.myalicdn.com/gc/hkts07_1/index.m3u8?contentid=2820180516001
+山东-开山,https://gcalic.v.myalicdn.com/gc/hkts05_1/index.m3u8?contentid=2820180516001
+山东-经石峪,https://gcalic.v.myalicdn.com/gc/hkts04_1/index.m3u8?contentid=2820180516001
+山东-碧霞祠,https://gcalic.v.myalicdn.com/gc/hkts03_1/index.m3u8?contentid=2820180516001
+山东-白云亭悬崖,https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8?contentid=2820180516001
+山东-拱北日出,https://gcalic.v.myalicdn.com/gc/hkts01_1/index.m3u8?contentid=2820180516001
+山东-泰山天街,https://gcalic.v.myalicdn.com/gc/taishan07_1/index.m3u8?contentid=2820180516001
+山东-泰山玉皇顶,https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8?contentid=2820180516001
+山东-泰山大观峰,https://gcalic.v.myalicdn.com/gc/taishan03_1/index.m3u8?contentid=2820180516001
+河南-郑东新区千玺广场,https://gcalic.v.myalicdn.com/gc/zdxq01_1/index.m3u8?contentid=2820180516001
+河南-少林寺广场,https://gcalic.v.myalicdn.com/gc/zsslsgc_1/index.m3u8?contentid=2820180516001
+河南-云台山小寨沟,https://gcalic.v.myalicdn.com/gc/ytsxzg_1/index.m3u8?contentid=2820180516001
+河南-云台山百家岩,https://gcalic.v.myalicdn.com/gc/ytsbjy_1/index.m3u8?contentid=2820180516001
+河南-云台山红石峡,https://gcalic.v.myalicdn.com/gc/ytshsx_1/index.m3u8?contentid=2820180516001
+河南-云台山茱萸峰,https://gcalic.v.myalicdn.com/gc/ytszyf_1/index.m3u8?contentid=2820180516001
+河南-八里沟桃花湾瀑布,https://gcalic.v.myalicdn.com/gc/blg05_1/index.m3u8?contentid=2820180516001
+河南-八里沟天界山玻璃栈道,https://gcalic.v.myalicdn.com/gc/blg03_1/index.m3u8?contentid=2820180516001
+湖北-武汉黄鹤楼,https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8?contentid=2820180516001
+湖北-龙王庙,https://gcalic.v.myalicdn.com/gc/hnttbdjd_1/index.m3u8?contentid=2820180516001
+湖北-武汉长江大桥,https://gcalic.v.myalicdn.com/gc/qdls04_1/index.m3u8?contentid=2820180516001
+湖北-金丝猴01,https://gcalic.v.myalicdn.com/gc/jshhd01_1/index.m3u8?contentid=2820180516001
+湖南-天门山天门洞,https://gcalic.v.myalicdn.com/gc/tmstmd01_1/index.m3u8?contentid=2820180516001
+湖南-天门山天空步道,https://gcalic.v.myalicdn.com/gc/tms02_1/index.m3u8?contentid=2820180516001
+湖南-天门山西线玻璃栈道,https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8?contentid=2820180516001
+湖南-天门山云梦仙顶,https://gcalic.v.myalicdn.com/gc/tms04_1/index.m3u8?contentid=2820180516001
+湖南-十八洞村,https://gcalic.v.myalicdn.com/gc/sbd01_1/index.m3u8?contentid=2820180516001
+湖南-凤凰古城南华山,https://gcalic.v.myalicdn.com/gc/fhgcdnhs_1/index.m3u8?contentid=2820180516001
+湖南-凤凰古城东关门,https://gcalic.v.myalicdn.com/gc/fhgcdgm_1/index.m3u8?contentid=2820180516001
+湖南-张家界水绕四门,https://gcalic.v.myalicdn.com/gc/zjjsrsm_1/index.m3u8?contentid=2820180516001
+湖南-张家界将军列队,https://gcalic.v.myalicdn.com/gc/zjjjjdl_1/index.m3u8?contentid=2820180516001
+湖南-阿凡达悬浮山,https://gcalic.v.myalicdn.com/gc/zjjafdxfs_1/index.m3u8?contentid=2820180516001
+湖南-张家界迷魂台,https://gcalic.v.myalicdn.com/gc/zjjmht_1/index.m3u8?contentid=2820180516001
+湖南-宝峰湖,https://gcalic.v.myalicdn.com/gc/zjjbfh_1/index.m3u8?contentid=2820180516001
+广东-东莞中心广场,https://gcalic.v.myalicdn.com/gc/zsslstpt_1/index.m3u8?contentid=2820180516001
+广东-深圳世界之窗,https://gcalic.v.myalicdn.com/gc/sjzc01_1/index.m3u8?contentid=2820180516001
+广东-丹霞山丹梯铁锁,https://gcalic.v.myalicdn.com/gc/dxsdtts_1/index.m3u8?contentid=2820180516001
